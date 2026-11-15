@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Operating-System-For-Business-All-In-One-SaaS/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Operating-System-For-Business-All-In-One-SaaS?style=social" alt="GitHub Stars"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Operating-System-For-Business-All-In-One-SaaS/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Operating-System-For-Business-All-In-One-SaaS?style=social" alt="GitHub_Stars"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Operating-System-For-Business-All-In-One-SaaS/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Operating-System-For-Business-All-In-One-SaaS?style=social" alt="GitHub Forks"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Operating-System-For-Business-All-In-One-SaaS/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Operating-System-For-Business-All-In-One-SaaS?style=flat-square&color=blue" alt="Issues"/></a>
 <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License: CC0-1.0"/></a>
@@ -66,9 +66,9 @@ Commercial, cloud-hosted Operating System for Business / All-in-One SaaS suites 
 
 ## 🔓 Open-Source Software & Self-Hosted Platforms
 
-Production-ready, self-hosted, community-driven Operating System for Business solutions and ERP engines. Each repository features live stargazers metrics linking directly to its GitHub repository stargazers page, ordered in descending order by GitHub Stars.
+Production-ready, self-hosted, community-driven Operating System for Business solutions and ERP engines. Each repository features live stargazers metrics linking directly to its GitHub repository stargazers page, ordered in descending order by GitHub_Stars.
 
-| Rank | Project | GitHub Stars (Live Badge) | Technology Stack | License | Core Capabilities |
+| Rank | Project | GitHub_Stars (Live Badge) | Technology Stack | License | Core Capabilities |
 |:---:|---|:---:|---|---|---|
 | 1️⃣ | **[Twenty](https://twenty.com/)** | <a href="https://github.com/twentyhq/twenty/stargazers"><img src="https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white" alt="Twenty Stars"/></a> | TypeScript, Node.js, React, PostgreSQL | AGPL-3.0 | Modern CRM and business operation foundation, extensible data models, Kanban pipelines, self-hostable alternative to Salesforce. |
 | 2️⃣ | **[Odoo Community](https://www.odoo.com/)** | <a href="https://github.com/odoo/odoo/stargazers"><img src="https://img.shields.io/github/stars/odoo/odoo?style=social&color=white" alt="Odoo Stars"/></a> | Python, JavaScript, PostgreSQL | LGPL-3.0 | World-class modular open-source ERP with CRM, sales, billing, inventory, manufacturing, HR, and thousands of community modules. |
@@ -140,7 +140,7 @@ Contributions are warmly welcomed! If you are aware of an exceptional Business O
 2. Create a dedicated branch (`git checkout -b feature/new-business-tool`).
 3. Commit your proposed changes following table guidelines (`git commit -m 'Add AmazingPlatform'`).
 4. Push to your branch (`git push origin feature/new-business-tool`).
-5. Open a Pull Request detailing the stack, license, live pricing or star counts, and distinguishing capabilities.
+5. Open a Pull Request detailing the stack, license, live pricing or Stars_Counts, and distinguishing capabilities.
 
 *Check out more curated lists at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).*
 
