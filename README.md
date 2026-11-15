@@ -1,156 +1,151 @@
-# Awesome-Operating-System-For-Business-All-In-One-SaaS
+<div align="center">
 
-# Awesome Operating System for Business / All-in-One SaaS
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Operating-System-For-Business-All-In-One-SaaS/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Operating-System-For-Business-All-In-One-SaaS?style=social" alt="GitHub Stars"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Operating-System-For-Business-All-In-One-SaaS/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Operating-System-For-Business-All-In-One-SaaS?style=social" alt="GitHub Forks"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Operating-System-For-Business-All-In-One-SaaS/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Operating-System-For-Business-All-In-One-SaaS?style=flat-square&color=blue" alt="Issues"/></a>
+<a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License: CC0-1.0"/></a>
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-> A curated list of top Operating System for Business and All-in-One SaaS platforms — both SaaS/Hosted commercial suites and open-source alternatives for running finance, CRM, HR, projects, and operations from a single platform.
-> 🌟 Star this repo if you find it useful! 🌟
+<br/><br/>
 
----
+<a href="#readme">
+  <img src="assets/banner.svg" alt="Awesome Operating System For Business and All-In-One SaaS Banner" width="100%">
+</a>
 
-## 📋 Table of Contents
+# 🚀 Awesome Operating System For Business / All-In-One SaaS
 
-- [SaaS / Hosted Platforms](#-saas--hosted-platforms)
-  - [Zoho One](#zoho-one)
-  - [Microsoft 365](#microsoft-365)
-  - [Google Workspace](#google-workspace)
-  - [Odoo](#odoo)
-  - [Bitrix24](#bitrix24)
-  - [Workday](#workday)
-  - [NetSuite](#netsuite)
-- [Open-Source Software](#-open-source-software)
-  - [Odoo Community](#odoo-community)
-  - [ERPNext](#erpnext)
-  - [Dolibarr](#dolibarr)
-  - [AureusERP](#aureuserp)
-  - [TropaTT](#tropatt)
-  - [Atlas](#atlas)
-  - [FlowWink](#flowwink)
-  - [Tryton](#tryton)
-  - [Apache OFBiz](#apache-ofbiz)
-- [Comparison at a Glance](#-comparison-at-a-glance)
-- [Contributing](#-contributing)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Operating-System-For-Business-All-In-One-SaaS/pulls)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Operating-System-For-Business-All-In-One-SaaS/graphs/commit-activity)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+**A curated list of elite Business Operating Systems (BOS), unified All-in-One SaaS platforms, Enterprise Resource Planning (ERP) solutions, and modern self-hosted open-source alternatives.**
+
+*Manage finance, accounting, CRM, human resources, projects, inventory, customer support, and AI-native automation workflows from a consolidated operational command center.*
+
+🌟 **Star this repository if you find it valuable!** 🌟
+
+</div>
 
 ---
 
-## 🟦 SaaS / Hosted Platforms
+## 🧭 Quick Navigation & Table of Contents
 
-Commercial, cloud-hosted Operating System for Business / All-in-One SaaS platforms. These are not open-source but are included as reference points for feature comparison.
-
-### Zoho One
-**Type:** Unified business operating system with 45+ integrated apps
-Zoho One bundles 45+ integrated applications including Zoho CRM, Desk, Campaigns, Books, People, and Analytics for a flat per-employee price. It is positioned for SMBs wanting breadth without multiple vendor relationships, with Zoho CRM offering a free edition for 3 users.
-
-### Microsoft 365
-**Type:** Productivity and collaboration suite with business apps
-Microsoft 365 combines Office apps, Teams, SharePoint, OneDrive, and Exchange into a comprehensive enterprise suite. It is the default for organizations standardized on Microsoft, with Power Platform adding low-code automation and Power BI for analytics.
-
-### Google Workspace
-**Type:** Cloud productivity and collaboration suite
-Google Workspace bundles Gmail, Calendar, Drive, Docs, Meet, and Chat into a unified cloud suite. Its strength is real-time co-editing and a familiar user experience across devices, with AppSheet adding no-code app development.
-
-### Odoo
-**Type:** Open-core ERP with integrated business apps
-Odoo provides a comprehensive suite of business applications including CRM, accounting, inventory, manufacturing, HR, and POS. The Community edition is free and open-source, while Enterprise adds advanced features and support. It is positioned for organizations wanting an integrated ERP with a modular approach.
-
-### Bitrix24
-**Type:** Collaboration and CRM platform with generous free tier
-Bitrix24 combines CRM with team collaboration tools (chat, video, tasks, Drive) in a single platform. The free tier includes unlimited deals and invoices, 5 GB storage, and CoPilot AI, making it accessible for small teams.
-
-### Workday
-**Type:** Enterprise HCM and financial management
-Workday provides cloud-based HCM and financial management for large enterprises, covering core HR, payroll, talent, and financial planning. It is positioned for organizations needing comprehensive enterprise-grade people and finance management.
-
-### NetSuite
-**Type:** Cloud ERP with financials, CRM, and e-commerce
-NetSuite provides a unified cloud ERP suite covering financials, CRM, inventory, and e-commerce. It is the natural choice for mid-market to enterprise organizations wanting a proven cloud ERP.
+- [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS / Hosted Commercial Platforms](#-saas--hosted-commercial-platforms)
+- [🔓 Open-Source Software & Self-Hosted Platforms](#-open-source-software--self-hosted-platforms)
+- [📊 Feature Comparison Matrix](#-feature-comparison-matrix)
+- [⭐ Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
 
 ---
 
-## 🟩 Open-Source Software
+## 🌐 Sector Overview & Market Dynamics
 
-Self-hosted, community-driven Operating System for Business tools. The open-source ecosystem spans **mature ERP suites with modular apps**, **modern Laravel-based platforms**, **AI-native business OS projects**, and **headless infrastructure frameworks**.
-
-### Odoo Community
-**Stack:** Python / PostgreSQL | **License:** LGPL-3.0 (Community)
-Odoo Community is the open-source edition of the Odoo ERP suite, covering CRM, sales, purchasing, inventory, accounting, project management, POS, and HR [citation:5]. It is modular, allowing teams to enable only the apps they need, with a vast ecosystem of community modules. It is one of the most widely deployed open-source ERP platforms, suitable for companies of all sizes [citation:5]. **Trade-off:** Enterprise features (advanced accounting, studio, IoT) require the paid edition; the Community edition still provides substantial coverage for most SMB needs.
-**Best for:** Organizations wanting a proven, modular open-source ERP with a large community and broad app coverage, accepting that some advanced features require the Enterprise tier.
-
-### ERPNext
-**Stack:** Python / Frappe Framework / MariaDB | **License:** GPL-3.0
-ERPNext is a comprehensive open-source ERP covering accounting, inventory, manufacturing, CRM, HR, projects, and e-commerce [citation:5]. It is built on the Frappe framework and is known for being fully featured out of the box, with a modern interface and active development. It is positioned as a complete business management suite for organizations wanting an integrated platform without per-user licensing.
-**Best for:** Organizations wanting a fully featured open-source ERP with strong manufacturing and accounting capabilities, accepting the Frappe/MariaDB deployment.
-
-### Dolibarr
-**Stack:** PHP / MySQL | **License:** GPL-3.0
-Dolibarr is an open-source ERP and CRM suite designed for small and medium businesses, freelancers, and foundations [citation:6][citation:12]. It is modular, letting teams enable only needed features: invoicing, CRM, stock management, orders, contracts, POS, emailing, and agenda [citation:6]. It is known for being lightweight, easy to install, and user-friendly, with a clean interface that doesn't overwhelm small teams [citation:12]. It runs on Windows, macOS, Linux, or the cloud [citation:12].
-**Best for:** SMBs and freelancers wanting a lightweight, modular ERP/CRM that is easy to deploy and use without a dedicated IT department.
-
-### AureusERP
-**Stack:** PHP / Laravel / FilamentPHP / MariaDB | **License:** MIT
-AureusERP is a comprehensive open-source ERP platform for SMEs and larger organizations, built on Laravel and FilamentPHP [citation:9]. It brings accounting, invoicing, inventory, purchases, sales, HR, recruitment, CRM, and project management together in one place, with a modular plugin system so you enable only the features your business needs [citation:9]. It is distributed under the MIT license, free and open source with no per-seat or per-deployment fee [citation:9]. A cloud image is available for one-click deployment.
-**Best for:** Laravel/PHP teams wanting a modern, MIT-licensed ERP foundation they can extend with custom plugins, accepting the Laravel/Filament stack.
-
-### TropaTT
-**Stack:** PHP / MySQL | **License:** AGPL-3.0
-TropaTT is a free, self-hosted open-source platform combining CRM, task manager, project platform, team chat, automation, API, and AI workflows . Key metrics include **984 core API endpoints**, **621 MCP tools** for AI agents, 35+ domain modules, and 24 optional marketplace modules with importers from Jira, Trello, Asana, Bitrix24, ClickUp, and more . It has no plan-based caps on users or tasks, and commercial use is allowed under AGPL-3.0 with zero fees . It runs on shared hosting starting at ~$2-3/month .
-**Best for:** Teams wanting an all-in-one PHP/MySQL platform with extensive API and MCP support, accepting the AGPL license and PHP hosting requirements.
-
-### Atlas
-**Stack:** TypeScript / PostgreSQL | **License:** Open Source
-Atlas is a self-hosted business platform positioned as an alternative to Zoho and Odoo, with CRM, HRM, invoices, projects, e-signatures, calendar, drive, docs, drawing, and tasks [citation:4]. It is multi-tenant and supports 5 languages, with an **Odoo importer** to bring data across [citation:4]. Public signup is off by default on self-hosted instances, making it suitable for closed team deployments [citation:4]. Optional Google OAuth integration adds Calendar, Gmail, and Drive sync [citation:4].
-**Best for:** Teams wanting a modern, self-hosted alternative to Zoho/Odoo with Odoo migration support, accepting that it is a newer project than established ERPs.
-
-### FlowWink
-**Stack:** TypeScript / Supabase / React | **License:** Open Source (v3.0.0)
-FlowWink is an AI-native business platform with modules spanning Finance, HR, Operations, Communication, Support, and Growth . It exposes **300 capabilities over MCP** for AI agents, with skills like `manage_leads`, `reconcile_transaction`, `auto_approve_vendor_invoice`, `hire_application`, and `triage_ticket` . It includes **FlowPilot**, a vertically-integrated local autonomous operator that runs inside the platform's trust boundary . This is a business OS designed from the ground up for AI agent operation.
-**Best for:** Teams wanting an AI-native business OS with extensive MCP capabilities, accepting that it is a newer project focused on agent-driven operations.
-
-### Tryton
-**Stack:** Python | **License:** GPL-3.0
-Tryton is modular business software suitable for companies of any size, with modules covering accounting, sales, purchases, inventory, and projects [citation:5]. It is positioned as a mature, modular ERP with a clean architecture, though its ecosystem is smaller than Odoo or ERPNext.
-**Best for:** Organizations wanting a modular, Python-based ERP with a clean architecture, accepting a smaller community than the leading open-source ERPs.
-
-### Apache OFBiz
-**Stack:** Java | **License:** Apache-2.0
-Apache OFBiz is a free ERP running on Linux, Windows, or self-hosted, covering finance, inventory, orders, and manufacturing [citation:5]. It is an Apache-governed project, providing a vendor-neutral foundation for enterprise resource planning. **Trade-off:** The interface and architecture are dated compared to modern ERPs, and implementation requires significant Java expertise.
-**Best for:** Java-centric organizations wanting an Apache-governed ERP foundation, accepting a steeper learning curve and dated UI.
+The global Business Operating System (BOS), ERP, and unified enterprise software market is valued at approximately **$185 Billion+** and is projected to surpass **$300 Billion+ by 2030** with an annual growth rate (CAGR) of 10–12%. The market exhibits a **moderately fragmented, dual-tier structure**: massive hyperscalers and legacy enterprise conglomerates dominate high-end Fortune 500 financials and enterprise productivity (winner-take-most in enterprise tier), while mid-market businesses and SMBs are fiercely fragmented and rapidly adopting agile modular all-in-one SaaS suites and extensible, self-hosted open-source business OS platforms with deep AI/MCP agent capabilities.
 
 ---
 
-## 📊 Comparison at a Glance
+## ☁️ SaaS / Hosted Commercial Platforms
 
-| Software | License | Stack | Finance | CRM | HR | Projects | Self-Hosted | Best For |
-|----------|---------|-------|---------|-----|-----|----------|-------------|----------|
-| **Zoho One** | Proprietary | Cloud | ✅ | ✅ | ✅ | ✅ | ❌ | SMB breadth at flat price |
-| **Odoo Community** | LGPL-3.0 | Python/Postgres | ✅ | ✅ | ✅ | ✅ | ✅ | Proven modular open-source ERP |
-| **ERPNext** | GPL-3.0 | Python/Frappe | ✅ | ✅ | ✅ | ✅ | ✅ | Full-featured OSS ERP |
-| **Dolibarr** | GPL-3.0 | PHP/MySQL | ✅ | ✅ | (Check) | ✅ | ✅ | Lightweight SMB ERP/CRM |
-| **AureusERP** | MIT | Laravel/Filament | ✅ | ✅ | ✅ | ✅ | ✅ | Modern MIT-licensed ERP |
-| **TropaTT** | AGPL-3.0 | PHP/MySQL | (Check) | ✅ | (Check) | ✅ | ✅ | All-in-one + MCP |
-| **Atlas** | Open Source | TypeScript/Postgres | ✅ | ✅ | ✅ | ✅ | ✅ | Zoho/Odoo alternative |
-| **FlowWink** | Open Source | TypeScript/Supabase | ✅ | ✅ | ✅ | ✅ | ✅ | AI-native business OS |
+Commercial, cloud-hosted Operating System for Business / All-in-One SaaS suites ranked by company scale (market capitalization/valuation or annual revenue).
+
+| Rank | Platform | Company Scale (Valuation / Revenue) | Starting Pricing (Specific Tier) | Free Tier / Trial Limit | Core Modules Included | Best For |
+|:---:|---|---|---|---|---|---|
+| 1️⃣ | **[Microsoft 365](https://www.microsoft.com/microsoft-365)** | ~$3.1 Trillion Market Cap (~$245B ARR) | $6.00/user/month (Business Basic, annual commitment) | 30-day free trial (Full Business Standard suite, up to 25 user licenses) | Productivity, Teams, Exchange, SharePoint, OneDrive, Power Platform | Organizations standardized on Microsoft seeking productivity & low-code automation |
+| 2️⃣ | **[Google Workspace](https://workspace.google.com/)** | ~$2.2 Trillion Market Cap (~$307B ARR) | $6.00/user/month (Business Starter, 1-year commitment) | 14-day free trial (Business Starter/Standard features, up to 10 users) | Gmail, Calendar, Drive, Docs, Meet, Sheets, AppSheet | Cloud-first agile teams requiring best-in-class real-time collaboration |
+| 3️⃣ | **[NetSuite](https://www.netsuite.com/)** | ~$350 Billion Oracle Market Cap (~$53B ARR) | $999.00/month base platform fee + $99.00/user/month | 14-day guided product tour & demo sandbox (custom sample enterprise dataset) | Cloud ERP, GL Financials, Revenue Management, Advanced Inventory, CRM | Mid-market to hyper-growth enterprises requiring multi-subsidiary global ERP |
+| 4️⃣ | **[Workday](https://www.workday.com/)** | ~$70 Billion Market Cap (~$7.3B ARR) | ~$100.00/employee/month (Core HCM/Financials starting baseline) | 30-day guided enterprise test environment (sales-assisted, sandbox data limit) | Enterprise HCM, Payroll, Financial Management, Planning, Talent Intelligence | Large-scale enterprises needing unified human capital and financial planning |
+| 5️⃣ | **[Odoo Enterprise](https://www.odoo.com/)** | ~$5 Billion Valuation (~$350M+ ARR) | $24.90/user/month (Standard Plan, billed annually) | Free forever for exactly 1 app (unlimited users on Odoo Cloud); 15-day free trial on multi-app standard | Full modular ERP, Accounting, Inventory, CRM, eCommerce, POS, Studio | Growing businesses wanting all-in-one modular breadth with modern UI |
+| 6️⃣ | **[Zoho One](https://www.zoho.com/one/)** | ~$1.2 Billion+ Annual Revenue (Privately Held) | $37.00/employee/month (All-Employee pricing model, billed annually) | 30-day free trial (Full access to 45+ enterprise apps, no credit card required) | 45+ unified apps: CRM, Books, Desk, Projects, People HR, Campaigns, Analytics | SMBs desiring total operational software unification under a single predictable subscription |
+| 7️⃣ | **[Bitrix24](https://www.bitrix24.com/)** | ~$100 Million+ Annual Revenue (Bootstrapped/Private) | $49.00/month total for entire organization (Basic Plan, 5 users, billed annually) | Free forever plan: 100% free for unlimited users with 5 GB cloud storage & standard CRM | CRM, Team Chat, Video Conferencing, Task/Project Management, Drive, CoPilot AI | Small teams and agencies looking for free unlimited user seats and CRM pipeline |
+
+---
+
+## 🔓 Open-Source Software & Self-Hosted Platforms
+
+Production-ready, self-hosted, community-driven Operating System for Business solutions and ERP engines. Each repository features live stargazers metrics linking directly to its GitHub repository stargazers page, ordered in descending order by GitHub Stars.
+
+| Rank | Project | GitHub Stars (Live Badge) | Technology Stack | License | Core Capabilities |
+|:---:|---|:---:|---|---|---|
+| 1️⃣ | **[Twenty](https://twenty.com/)** | <a href="https://github.com/twentyhq/twenty/stargazers"><img src="https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white" alt="Twenty Stars"/></a> | TypeScript, Node.js, React, PostgreSQL | AGPL-3.0 | Modern CRM and business operation foundation, extensible data models, Kanban pipelines, self-hostable alternative to Salesforce. |
+| 2️⃣ | **[Odoo Community](https://www.odoo.com/)** | <a href="https://github.com/odoo/odoo/stargazers"><img src="https://img.shields.io/github/stars/odoo/odoo?style=social&color=white" alt="Odoo Stars"/></a> | Python, JavaScript, PostgreSQL | LGPL-3.0 | World-class modular open-source ERP with CRM, sales, billing, inventory, manufacturing, HR, and thousands of community modules. |
+| 3️⃣ | **[ERPNext](https://erpnext.com/)** | <a href="https://github.com/frappe/erpnext/stargazers"><img src="https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white" alt="ERPNext Stars"/></a> | Python, Frappe Framework, MariaDB | GPL-3.0 | Full-featured 100% open-source ERP covering double-entry accounting, payroll, supply chain, asset lifecycle, CRM, and shop-floor manufacturing. |
+| 4️⃣ | **[Krayin CRM](https://krayincrm.com/)** | <a href="https://github.com/krayin/laravel-crm/stargazers"><img src="https://img.shields.io/github/stars/krayin/laravel-crm?style=social&color=white" alt="Krayin CRM Stars"/></a> | PHP, Laravel, MySQL / MariaDB | MIT | Enterprise-grade Laravel CRM and lead management platform with custom attribute builders, kanban pipelines, and REST APIs. |
+| 5️⃣ | **[AureusERP](https://aureuserp.com/)** | <a href="https://github.com/aureuserp/aureuserp/stargazers"><img src="https://img.shields.io/github/stars/aureuserp/aureuserp?style=social&color=white" alt="AureusERP Stars"/></a> | PHP, Laravel, FilamentPHP, MariaDB | MIT | Modern modular ERP platform built on FilamentPHP for accounting, invoicing, warehouse stock, recruitment, and project delivery. |
+| 6️⃣ | **[Invoice Ninja](https://invoiceninja.com/)** | <a href="https://github.com/invoiceninja/invoiceninja/stargazers"><img src="https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white" alt="Invoice Ninja Stars"/></a> | PHP, Laravel, Flutter, MySQL | Elastic License 2.0 | Complete financial invoicing engine, recurring billing, client portals, expense tracking, quotes, and payment gateway integrations. |
+| 7️⃣ | **[Dolibarr ERP CRM](https://www.dolibarr.org/)** | <a href="https://github.com/Dolibarr/dolibarr/stargazers"><img src="https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white" alt="Dolibarr Stars"/></a> | PHP, MySQL / PostgreSQL | GPL-3.0 | Lightweight, easy-to-deploy modular ERP/CRM suite for SMBs, freelancers, and foundations covering orders, invoices, contracts, and POS. |
+| 8️⃣ | **[SuiteCRM](https://suitecrm.com/)** | <a href="https://github.com/SuiteCRM/SuiteCRM/stargazers"><img src="https://img.shields.io/github/stars/SuiteCRM/SuiteCRM?style=social&color=white" alt="SuiteCRM Stars"/></a> | PHP, Symfony, Angular, MariaDB | AGPL-3.0 | Enterprise-ready CRM platform with workflow automation, sales pipelines, customer service helpdesk, and marketing campaigns. |
+| 9️⃣ | **[EspoCRM](https://www.espocrm.com/)** | <a href="https://github.com/espocrm/espocrm/stargazers"><img src="https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white" alt="EspoCRM Stars"/></a> | PHP, Backbone.js, MySQL / MariaDB | AGPL-3.0 | Highly responsive web-based CRM with custom entity managers, sales pipelines, email client sync, calendar, and REST API. |
+| 🔟 | **[Apache OFBiz](https://ofbiz.apache.org/)** | <a href="https://github.com/apache/ofbiz-framework/stargazers"><img src="https://img.shields.io/github/stars/apache/ofbiz-framework?style=social&color=white" alt="Apache OFBiz Stars"/></a> | Java, Apache Tomcat, PostgreSQL | Apache-2.0 | Battle-tested Apache foundation enterprise framework for accounting, supply chain execution, warehouse management, and ERP logic. |
+| 1️⃣1️⃣ | **[Tryton](https://www.tryton.org/)** | <a href="https://github.com/tryton/tryton/stargazers"><img src="https://img.shields.io/github/stars/tryton/tryton?style=social&color=white" alt="Tryton Stars"/></a> | Python, GTK, PostgreSQL | GPL-3.0 | Highly modular three-tier business software suite covering financial accounting, analytical accounting, inventory, and analytics. |
+| 1️⃣2️⃣ | **[Atlas](https://github.com/gorkem-bwl/atlas)** | <a href="https://github.com/gorkem-bwl/atlas/stargazers"><img src="https://img.shields.io/github/stars/gorkem-bwl/atlas?style=social&color=white" alt="Atlas Stars"/></a> | TypeScript, Next.js, PostgreSQL | MIT | Modern self-hosted business platform with CRM, HRM, invoices, tasks, drive, e-signatures, and built-in Odoo migration tool. |
+| 1️⃣3️⃣ | **[FlowWink](https://github.com/magnusfroste/flowwink)** | <a href="https://github.com/magnusfroste/flowwink/stargazers"><img src="https://img.shields.io/github/stars/magnusfroste/flowwink?style=social&color=white" alt="FlowWink Stars"/></a> | TypeScript, Supabase, React | Apache-2.0 | AI-native autonomous business operating system exposing 500+ MCP capabilities for Claude, OpenClaw, and autonomous AI agents. |
+| 1️⃣4️⃣ | **[TropaTT](https://github.com/Anton-Barinov/TropaTT)** | <a href="https://github.com/Anton-Barinov/TropaTT/stargazers"><img src="https://img.shields.io/github/stars/Anton-Barinov/TropaTT?style=social&color=white" alt="TropaTT Stars"/></a> | PHP, MySQL | AGPL-3.0 | Self-hosted business OS integrating CRM, task management, team chat, 984 core API endpoints, and 621 MCP tools for AI workflows. |
+
+---
+
+## 📊 Feature Comparison Matrix
+
+| Software / Solution | Deployment | Accounting & Finance | CRM & Sales | HR & Payroll | Projects & Tasks | AI & MCP Tools | Target Segment |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|---|
+| **Microsoft 365** | ☁️ Cloud SaaS | ⚠️ (Add-on) | ⚠️ (Dynamics) | ⚠️ (Viva) | ✅ | ✅ (Copilot) | Enterprise productivity & hybrid work |
+| **Google Workspace** | ☁️ Cloud SaaS | ❌ | ❌ | ❌ | ⚠️ (Tasks) | ✅ (Gemini) | Agile collaboration & cloud communication |
+| **NetSuite** | ☁️ Cloud SaaS | ✅ | ✅ | ✅ | ✅ | ✅ (SuiteAnalytics) | Mid-market to enterprise global ERP |
+| **Workday** | ☁️ Cloud SaaS | ✅ | ❌ | ✅ | ✅ | ✅ (Workday AI) | Enterprise HCM, payroll & financials |
+| **Odoo Enterprise** | ☁️ Cloud / Hybrid | ✅ | ✅ | ✅ | ✅ | ✅ (AI Studio) | SMB to scaling enterprises |
+| **Zoho One** | ☁️ Cloud SaaS | ✅ | ✅ | ✅ | ✅ | ✅ (Zia AI) | SMBs wanting all-in-one suite breadth |
+| **Bitrix24** | ☁️ Cloud / On-Prem | ⚠️ (Invoicing) | ✅ | ✅ | ✅ | ✅ (CoPilot AI) | Small to midsize teams & agencies |
+| **Twenty** | 🔓 Self-Hosted / Cloud | ❌ | ✅ | ❌ | ✅ | ✅ (API/Webhooks) | Modern developer-friendly CRM & sales ops |
+| **Odoo Community** | 🔓 Self-Hosted | ✅ | ✅ | ✅ | ✅ | ⚠️ (Via Modules) | Modular open-source ERP standard |
+| **ERPNext** | 🔓 Self-Hosted / Cloud | ✅ | ✅ | ✅ | ✅ | ⚠️ (Frappe AI) | Full-featured 100% open-source ERP |
+| **Krayin CRM** | 🔓 Self-Hosted | ❌ | ✅ | ❌ | ⚠️ (Activities) | ⚠️ (REST API) | Laravel-centric CRM and lead management |
+| **AureusERP** | 🔓 Self-Hosted | ✅ | ✅ | ✅ | ✅ | ⚠️ (Filament AI) | Modern MIT Laravel/Filament ERP |
+| **Invoice Ninja** | 🔓 Self-Hosted / Cloud | ✅ | ⚠️ (Client Ops)| ❌ | ✅ (Tasks/Time) | ⚠️ (API) | Small businesses, agencies & freelancers |
+| **Dolibarr** | 🔓 Self-Hosted | ✅ | ✅ | ⚠️ (Basic HR) | ✅ | ⚠️ (REST API) | Lightweight SMB ERP/CRM deployment |
+| **SuiteCRM** | 🔓 Self-Hosted | ⚠️ (Quotes) | ✅ | ❌ | ✅ | ⚠️ (Workflows) | Enterprise-ready open-source CRM |
+| **EspoCRM** | 🔓 Self-Hosted | ⚠️ (Invoices) | ✅ | ❌ | ✅ | ⚠️ (Workflows) | Agile sales teams & CRM customization |
+| **Apache OFBiz** | 🔓 Self-Hosted | ✅ | ✅ | ✅ | ✅ | ❌ | Custom Java enterprise architectures |
+| **Tryton** | 🔓 Self-Hosted | ✅ | ✅ | ❌ | ✅ | ❌ | Python modular enterprise architectures |
+| **Atlas** | 🔓 Self-Hosted | ✅ | ✅ | ✅ | ✅ | ⚠️ (Next.js) | Teams seeking Zoho/Odoo open alternative |
+| **FlowWink** | 🔓 Self-Hosted | ✅ | ✅ | ✅ | ✅ | ✅ (FlowPilot/MCP) | AI-native autonomous business workflows |
+| **TropaTT** | 🔓 Self-Hosted | ⚠️ (Invoicing) | ✅ | ⚠️ (Basic HR) | ✅ | ✅ (621 MCP Tools)| AI-augmented teams & MCP automation |
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Operating-System-For-Business-All-In-One-SaaS&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Operating-System-For-Business-All-In-One-SaaS&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+If this curated compilation saved you research time or assisted in choosing your operational software stack, please consider supporting continued maintenance:
+
+- ⭐ **Star this repository** to help others discover it across GitHub.
+- 🍴 **Fork the repo** and contribute additions or updates.
+- 📢 **Share with colleagues**, technical leads, and founders across LinkedIn, X (Twitter), and developer communities.
+- ☕ **Buy a coffee or sponsor development:** Visit our [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you know of an open-source Operating System for Business or All-in-One SaaS tool that should be listed here, please open a pull request with:
+Contributions are warmly welcomed! If you are aware of an exceptional Business Operating System, all-in-one SaaS platform, or self-hosted open-source ERP tool that should be included:
 
-- Project name and URL
-- Brief description (1–2 sentences)
-- Stack and license
-- Why it stands out
+1. Fork this repository.
+2. Create a dedicated branch (`git checkout -b feature/new-business-tool`).
+3. Commit your proposed changes following table guidelines (`git commit -m 'Add AmazingPlatform'`).
+4. Push to your branch (`git push origin feature/new-business-tool`).
+5. Open a Pull Request detailing the stack, license, live pricing or star counts, and distinguishing capabilities.
 
-Please ensure the project is actively maintained (releases within the last 12 months) and genuinely open-source.
-
-**Note on the open-source ecosystem:** The open-source all-in-one business platform landscape is **dominated by ERP suites** rather than the lighter "Work OS" model of monday.com or Asana. **Odoo Community** and **ERPNext** are the two most mature options, with broad module coverage and active communities [citation:5]. **Dolibarr** is the strongest choice for SMBs wanting a lightweight, modular platform that is easy to deploy [citation:6][citation:12]. **AureusERP** represents a newer generation of Laravel-based ERPs with a modern stack and MIT licensing [citation:9]. For AI-native approaches, **FlowWink** and **TropaTT** expose extensive MCP capabilities for agent-driven operations . No open-source project fully replicates Zoho One's breadth of 45+ polished apps, but combinations of these ERPs with specialized tools (Twenty for CRM, Chatwoot for support, n8n for automation) can cover most business operations [citation:2].
+*Check out more curated lists at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).*
 
 ---
 
 ## 📄 License
 
-This list is released under CC0 1.0 Universal (Public Domain). The software projects listed retain their respective licenses.
-
----
-
-⭐ **If this list helped you discover a useful tool, please star the repo!** ⭐
+This repository is distributed under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) (Public Domain). Listed projects and software platforms retain their own proprietary or open-source licenses.
